@@ -9,6 +9,6 @@ Set koneksi = New ADODB.Connection
 Set rs_rayon = New ADODB.Recordset
 Set rs_calon = New ADODB.Recordset
 Set rs_mhs = New ADODB.Recordset
-koneksi.Open "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\oktafiaa\Desktop\Project 1 VB\Database.accdb;"
+koneksi.Open "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Indrabass\Database.accdb;"
 End Sub
 
