@@ -1,0 +1,11 @@
+FormSekolah = 147, 22, 957, 457, C, 100, 100, 552, 393, C
+FormCalonMahasiswaBaru = 62, 104, 940, 539, , 130, 14, 718, 537, C
+FormMahasiswaBaru = 150, 150, 960, 586, , 86, -2, 809, 635, C
+DaftarCalonMahasiswaBaru = 104, 104, 702, 546, , 0, 0, 810, 571, C
+LapCalonMahasiswaBaruDiterima = 182, 182, 780, 624, , 25, 25, 461, 293, C
+LapCalonMahasiswaBaruDiterimaCadangan = 50, 50, 860, 486, , 50, 50, 505, 298, C
+DaftarMahasiswaBaru = 200, 200, 1010, 636, , 58, 17, 868, 574, C
+FormAuthor = 100, 100, 910, 536, C, 84, -8, 692, 575, C
+FormUtama = 208, 208, 806, 650, , 182, 182, 780, 624, C
+Module1 = 52, 52, 650, 494, Z
+DaftarSekolah = 182, 182, 780, 624, , 156, 156, 754, 598, C
